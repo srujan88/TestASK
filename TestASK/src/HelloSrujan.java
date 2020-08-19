@@ -12,7 +12,7 @@ public class HelloSrujan {
 				}
 		else
 		{
-			    System.out.println("Wait for the right age");	
+			    System.out.println("Wait for the right age!");	
 			    }
 		
 
