@@ -8,7 +8,7 @@ public class HelloSrujan {
 		
 		if ((ageofboy >=25 && ageofgirl >=20))
 		{
-				System.out.println("Get ready for marriage");
+				System.out.println("Get ready for marriage!");
 				}
 		else
 		{
